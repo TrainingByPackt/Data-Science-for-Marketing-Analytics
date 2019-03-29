@@ -1,6 +1,6 @@
-[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Data-Science-for-Marketing-Analytics.svg)](https://github.com/TrainingByPackt/Command-Line-Fundamentals/issues)
-[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Data-Science-for-Marketing-Analytics.svg)](https://github.com/TrainingByPackt/Command-Line-Fundamentals/network)
-[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Data-Science-for-Marketing-Analytics.svg)](https://github.com/TrainingByPackt/Command-Line-Fundamentals/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Data-Science-for-Marketing-Analytics.svg)](https://github.com/TrainingByPackt/Data-Science-for-Marketing-Analytics/issues)
+[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Data-Science-for-Marketing-Analytics.svg)](https://github.com/TrainingByPackt/Data-Science-for-Marketing-Analytics/network)
+[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Data-Science-for-Marketing-Analytics.svg)](https://github.com/TrainingByPackt/Data-Science-for-Marketing-Analytics/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Data-Science-for-Marketing-Analytics/pulls)
 
 
